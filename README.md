@@ -6,3 +6,8 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+---
+
+## 🌟 About Me
+
+Hi there! I'm **Rasheeda Sultana**. I’m a fresher in Data Analytics and passionate learner on a mission to share knowledge to help others learn and make working with data enjoyable and engaging!
