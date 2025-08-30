@@ -80,12 +80,24 @@ The scripts provide insights such as:
 
 ---
 
-## 📊 Reports
+## 📊 Report Views
 
-Two report views are generated:
+### `gold.report_customers`
+Provides a comprehensive view of customer behavior and performance, including:
+- ✅ Customer KPIs (orders, sales, quantity, products)
+- 🎯 Segmentation by age group and purchase behavior (VIP, Regular, New)
+- 📅 Recency (months since last order)
+- 💰 AOV (Average Order Value) and average monthly spend
+- ⏳ Customer lifespan
 
-- `gold.report_customers`: Customer KPIs, segmentation, recency, AOV, etc.
-- `gold.report_products`: Product performance, segmentation, recency, etc.
+### `gold.report_products`
+Delivers key product-level metrics and classifications:
+- ✅ Product KPIs (orders, sales, quantity, unique customers)
+- 🎯 Performance segmentation (High-Performer, Mid-Range, Low-Performer)
+- 📅 Recency (months since last sale)
+- 💸 Average selling price and order revenue
+- ⏳ Product lifespan and monthly revenue trends
+
 
 ---
 
